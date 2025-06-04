@@ -23,4 +23,10 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+    ---
+## 📈 GitHub Stats
 
+![Dinitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinithastackdev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinithastackdev&layout=compact&theme=radical)
+
+---
