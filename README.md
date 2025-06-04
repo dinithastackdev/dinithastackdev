@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+WELCOME TO THE DINITHA FULLSTACK DEVLOPING PROFILE...........💻💻💻💻💻
 
 **dinithastackdev/dinithastackdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
